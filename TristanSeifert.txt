@@ -1,2 +1,8 @@
 ﻿¿Is your hair on fire?
-lol
+<<<<<<< HEAD
+
+
+Nah.
+=======
+Depends.
+>>>>>>> origin/master
