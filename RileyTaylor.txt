@@ -1,5 +1,9 @@
 Does a deep question require a deep answer? 
 
 No.
+<<<<<<< HEAD
 
 How deep we talking?
+=======
+Yes.
+>>>>>>> origin/master
